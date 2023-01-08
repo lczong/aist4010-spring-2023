@@ -112,7 +112,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 22       | Apr 6 (Thu) | ERB-804|Generative |  |  |  | **<span style="color:red;">A3-Kaggle due</span>**
 |-| Apr 10 (Mon) |- |- |- |- |- | Easter Monday |
 | 23       | Apr 13 (Thu) | ERB-804| Course summary |  | | | **<span style="color:red;">Participation Quiz</span>** |
-| 24       | Apr 17 (Mon) | ERB-703| Project pres   |  | | | **<span style="color:red;">Project report</span>** | 
+| 24       | Apr 17 (Mon) | ERB-703| Project pres   |  | | |  | 
 | 25       | Apr 20 (Thu) | ERB-804| Project pres   |  | | | **<span style="color:red;">Project report</span>** | 
 
 ### <a id="assignments">Assignments</a>
