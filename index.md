@@ -18,16 +18,17 @@ This course covers how to use deep learning techniques to resolve real-life comp
 Lecturer: 
 Yu LI (<span style="color: #0099e6">liyuATcse.cuhk.edu.hk</span>), SHB-106. Office hour: 3pm-5pm, Friday <br>
 TA: 
-- Licheng ZONG (<span style="color: #0099e6">lczongATlink.cuhk.edu.hk</span>), SHB-1026. Office hour: 2pm-4pm Thursday
+- Licheng ZONG (<span style="color: #0099e6">lczongATlink.cuhk.edu.hk</span>), SHB-1026. Office hour: 2:30pm-4:30pm Tuesday
 - Liang HONG (<span style="color: #0099e6">ATcse.cuhk.edu.hk</span>), SHB-116. Office hour: 3pm-5pm Tuesday  <br>
 
 #### Time and location
 <b>Monday</b>: <b>2:30pm-4:15pm</b>, <b>ERB-703</b>. <br>
 <b>Thursday</b>: <b>2:30pm-3:15pm</b>, <b>ERB-804</b>. <br>
 Thursday: <b>3:30pm-4:15pm</b>, <b>ERB-804</b>. Tutorial <br>
+Thursday: <b>5:30pm-6:15pm</b>, <b>ERB-406</b>. ESTR-4140 <br>
 
 #### Format
-Onsite. (Mixed?) Slides will be available the day before the lecture day. Video recordings will be available after the lecture.
+Mainly onsite. Slides will be available the day before the lecture day. We will also provide the Zoom session.
 
 ### <a id="logistics">Logistics</a>
 
@@ -49,7 +50,8 @@ Onsite. (Mixed?) Slides will be available the day before the lecture day. Video 
 
 
 #### Open-book quiz policy
-The quiz is open-book. You are allowed to take any <b>paper-based materials</b>. However, no phone or computer is allowed. Other communication tools are also not allowed. Discussion is not allowed.
+The quiz is open-booked. 
+<!-- You are allowed to take any <b>paper-based materials</b>. However, no phone or computer is allowed. Other communication tools are also not allowed. Discussion is not allowed. -->
 
 #### Assignment
 Half of them will be fixed-answer questions while half of them will be <b>Kaggle competition</b>. The last Kaggle competition is optional. If you participate in that one, you final score of the Kaggle part will be the highest two out of the three.
@@ -85,29 +87,29 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 1       | Jan 9 (Mon)  | ERB-703|  Introduction |
 | 2       | Jan 12 (Thu) | ERB-804|  ML review |  |  |  | A0 posted | 
 | 3       | Jan 16 (Mon) | ERB-703|  LR/NN| | 
-| 4       | Jan 19 (Thu) | ERB-804|  Backpropagation | | | | **<span style="color:red;">A0 due</span>**, A1 posted | 
+| 4       | Jan 19 (Thu) | ERB-804|  Backpropagation | | | |  | 
 |-| Jan 23 (Mon)|- |- |- |- |- | Lunar New Year Vacation |
-|-| Jan 26 (Thu)|- |- |- |- |- | Lunar New Year Vacation |
-| 5       | Jan 30 (Mon) | ERB-703| CNN | | | 
+|-| Jan 26 (Thu)|- |- |- |- |- | Lunar New Year Vacation, **<span style="color:red;">Scribing preference, 27 Jan</span>** | 
+| 5       | Jan 30 (Mon) | ERB-703| CNN | | | | **<span style="color:red;">A0 due</span>**, A1 posted
 | 6       | Feb 2 (Thu)  | ERB-804| Overfitting |  | 
 | 7       | Feb 6 (Mon)  | ERB-703| CNN++ |   |  | 
 | 8       | Feb 9 (Thu)  | ERB-804| CNN++ | |
 | 9       | Feb 13 (Mon) | ERB-703| Optimization | | 
-| 10       | Feb 16 (Thu)| ERB-804| Optimization | | | | **<span style="color:red;">A1 due</span>**, **<span style="color:red;">Project proposal</span>** | 
-| 11       | Feb 20 (Mon)| ERB-703| Loss function |  | 
-| 12       | Feb 23 (Thu)| ERB-804| Text processing | |  | | A2 posted
+| 10       | Feb 16 (Thu)| ERB-804| Optimization | | | | **<span style="color:red;">A1-paper due</span>** | 
+| 11       | Feb 20 (Mon)| ERB-703| Loss function | | ｜ ｜**<span style="color:red;">Project proposal</span>**
+| 12       | Feb 23 (Thu)| ERB-804| Text processing | |  | | **<span style="color:red;">A1-Kaggle due</span>**, A2 posted
 | 13       | Feb 27 (Mon)| ERB-703| RNN |  |  |  
 | 14       | Mar 2 (Thu) | ERB-804| RNN++ |  |
 |-| Mar 6 (Mon) |- |- |- |- |- | Reading Week | 
 |-| Mar 9 (Thu) |- |- |- |- |- | Reading Week |
-| 15       | Mar 13 (Mon)| ERB-703| RNN++| | | | **<span style="color:red;">A2 due</span>**, A3 posted |
+| 15       | Mar 13 (Mon)| ERB-703| RNN++| | | | **<span style="color:red;">A2-paper due</span>**, A3 posted |
 | 16       | Mar 16 (Thu)| ERB-804| Attention | | | | **<span style="color:red;">Project M-report</span>**  |
-| 17       | Mar 20 (Mon)| ERB-703| BERT | |  | 
+| 17       | Mar 20 (Mon)| ERB-703| BERT | |  | | **<span style="color:red;">A2-Kaggle due</span>**
 | 18       | Mar 23 (Thu)| ERB-804| NLP | |
-| 19       | Mar 27 (Mon)| ERB-703| Graph  | | | | **<span style="color:red;">A3 due</span>** | 
-| 20       | Mar 30 (Thu)| ERB-804| GNN |  |
-| 21       | Apr 3 (Mon) | ERB-703|GAN |- |- |- | 
-| 22       | Apr 6 (Thu) | ERB-804|Generative |- |- |- | 
+| 19       | Mar 27 (Mon)| ERB-703| Graph  | | | |  | 
+| 20       | Mar 30 (Thu)| ERB-804| GNN |  | | | **<span style="color:red;">A3-paper due</span>**
+| 21       | Apr 3 (Mon) | ERB-703|GAN | |  |  | 
+| 22       | Apr 6 (Thu) | ERB-804|Generative |  |  |  | **<span style="color:red;">A3-Kaggle due</span>**
 |-| Apr 10 (Mon) |- |- |- |- |- | Easter Monday |
 | 23       | Apr 13 (Thu) | ERB-804| Course summary |  | | | **<span style="color:red;">Participation Quiz</span>** |
 | 24       | Apr 17 (Mon) | ERB-703| Project pres   |  | | | **<span style="color:red;">Project report</span>** | 
