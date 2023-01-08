@@ -84,7 +84,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 
 | Lec     | Date   |Location| Topic | Slides/Video | Notes | Reading | Important dates (All due at **<span style="color:red;">11:59 pm</span>**)|
 | ------- |------- |------- | ------| -------|-------|---------|----------------|
-| 1       | Jan 9 (Mon)  | ERB-703|  Introduction |
+| 1       | Jan 9 (Mon)  | ERB-703|  Introduction | <a href="https://www.dropbox.com/s/4671w983wasofq3/lec1-Intro.pdf?dl=0">Lec-1</a> |
 | 2       | Jan 12 (Thu) | ERB-804|  ML review |  |  |  | A0 posted | 
 | 3       | Jan 16 (Mon) | ERB-703|  LR/NN| | 
 | 4       | Jan 19 (Thu) | ERB-804|  Backpropagation | | | |  | 
