@@ -96,7 +96,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 8       | Feb 9 (Thu)  | ERB-804| CNN++ | |
 | 9       | Feb 13 (Mon) | ERB-703| Optimization | | 
 | 10       | Feb 16 (Thu)| ERB-804| Optimization | | | | **<span style="color:red;">A1-paper due</span>** | 
-| 11       | Feb 20 (Mon)| ERB-703| Loss function | | ｜ ｜**<span style="color:red;">Project proposal</span>**
+| 11       | Feb 20 (Mon)| ERB-703| Loss function | | | |**<span style="color:red;">Project proposal</span>**
 | 12       | Feb 23 (Thu)| ERB-804| Text processing | |  | | **<span style="color:red;">A1-Kaggle due</span>**, A2 posted
 | 13       | Feb 27 (Mon)| ERB-703| RNN |  |  |  
 | 14       | Mar 2 (Thu) | ERB-804| RNN++ |  |
