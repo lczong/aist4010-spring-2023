@@ -85,7 +85,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | Lec     | Date   |Location| Topic | Slides/Video | Notes | Reading | Important dates (All due at **<span style="color:red;">11:59 pm</span>**)|
 | ------- |------- |------- | ------| -------|-------|---------|----------------|
 | 1       | Jan 9 (Mon)  | ERB-703|  Introduction | <a href="https://www.dropbox.com/s/4671w983wasofq3/lec1-Intro.pdf?dl=0">Lec-1</a> |
-| 2       | Jan 12 (Thu) | ERB-804|  ML review |  |  |  | A0 posted | 
+| 2       | Jan 12 (Thu) | ERB-804|  ML review | <a href="https://www.dropbox.com/s/g99bd2k7bxny9e4/lec2-ML%20review.pdf?dl=0">Lec-2</a> |  | <a href="https://github.com/FaizSaeed/Data-Science-Course/blob/master/Book/Introduction%20to%20Data%20Mining_Pang%20Ning%20Tan.pdf">Data mining book</a>, <a href="https://d2l.ai/index.html#">D2L</a>, <a href="https://colab.research.google.com/drive/1RAh1qe0CapPwc0Ch-3AOgmsw_ly64yFx?usp=sharing">Colab</a>,  <a href="https://www.kaggle.com/lczong/tutorial-deep-learning-with-gpu-on-kaggle">Kaggle</a>  | A0 posted | 
 | 3       | Jan 16 (Mon) | ERB-703|  LR/NN| | 
 | 4       | Jan 19 (Thu) | ERB-804|  Backpropagation | | | |  | 
 |-| Jan 23 (Mon)|- |- |- |- |- | Lunar New Year Vacation |
