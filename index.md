@@ -19,7 +19,7 @@ Lecturer:
 Yu LI (<span style="color: #0099e6">liyuATcse.cuhk.edu.hk</span>), SHB-106. Office hour: 3pm-5pm, Friday <br>
 TA: 
 - Licheng ZONG (<span style="color: #0099e6">lczongATlink.cuhk.edu.hk</span>), SHB-1026. Office hour: 2:30pm-4:30pm Tuesday
-- Liang HONG (<span style="color: #0099e6">ATcse.cuhk.edu.hk</span>), SHB-116. Office hour: 10:30am-12:30pm Tuesday  <br>
+- Liang HONG (<span style="color: #0099e6">liang.hongATlink.cuhk.edu.hk</span>), SHB-116. Office hour: 10:30am-12:30pm Tuesday  <br>
 
 #### Time and location
 <b>Monday</b>: <b>2:30pm-4:15pm</b>, <b>ERB-703</b>. <br>
