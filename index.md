@@ -85,7 +85,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | Lec     | Date   |Location| Topic | Slides/Video | Notes | Reading | Important dates (All due at **<span style="color:red;">11:59 pm</span>**)|
 | ------- |------- |------- | ------| -------|-------|---------|----------------|
 | 1       | Jan 9 (Mon)  | ERB-703|  Introduction | <a href="https://www.dropbox.com/s/4671w983wasofq3/lec1-Intro.pdf?dl=0">Lec-1</a> |
-| 2       | Jan 12 (Thu) | ERB-804|  ML review | <a href="https://www.dropbox.com/s/g99bd2k7bxny9e4/lec2-ML%20review.pdf?dl=0">Lec-2</a> |  | <a href="https://github.com/FaizSaeed/Data-Science-Course/blob/master/Book/Introduction%20to%20Data%20Mining_Pang%20Ning%20Tan.pdf">Data mining book</a>, <a href="https://d2l.ai/index.html#">D2L</a>, <a href="https://colab.research.google.com/drive/1RAh1qe0CapPwc0Ch-3AOgmsw_ly64yFx?usp=sharing">Colab</a>,  <a href="https://www.kaggle.com/lczong/tutorial-deep-learning-with-gpu-on-kaggle">Kaggle</a>  | A0 posted | 
+| 2       | Jan 12 (Thu) | ERB-804|  ML review | <a href="https://www.dropbox.com/s/g99bd2k7bxny9e4/lec2-ML%20review.pdf?dl=0">Lec-2</a> |  | <a href="https://github.com/FaizSaeed/Data-Science-Course/blob/master/Book/Introduction%20to%20Data%20Mining_Pang%20Ning%20Tan.pdf">Data mining book</a>, <a href="https://d2l.ai/index.html#">D2L</a>, <a href="https://colab.research.google.com/drive/1LGfmF6gLhmh-NdtS5aW78GuSTBJS50Ev?usp=sharing">Colab</a>,  <a href="https://www.kaggle.com/code/lczong/aist4010-23-tut1-deep-learning-with-gpu-on-kaggle/notebook">Kaggle</a>  | A0 posted | 
 | 3       | Jan 16 (Mon) | ERB-703|  LR/NN| | 
 | 4       | Jan 19 (Thu) | ERB-804|  Backpropagation | | | |  | 
 |-| Jan 23 (Mon)|- |- |- |- |- | Lunar New Year Vacation |
@@ -108,8 +108,8 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 18       | Mar 23 (Thu)| ERB-804| NLP | |
 | 19       | Mar 27 (Mon)| ERB-703| Graph  | | | |  | 
 | 20       | Mar 30 (Thu)| ERB-804| GNN |  | | | **<span style="color:red;">A3-paper due</span>**
-| 21       | Apr 3 (Mon) | ERB-703|GAN | |  |  | 
-| 22       | Apr 6 (Thu) | ERB-804|Generative |  |  |  | **<span style="color:red;">A3-Kaggle due</span>**
+| 21       | Apr 3 (Mon) | ERB-703|GAN | |  |  | **<span style="color:red;">A3-Kaggle due</span>**
+| 22       | Apr 6 (Thu) | ERB-804|Generative |  |  |  | 
 |-| Apr 10 (Mon) |- |- |- |- |- | Easter Monday |
 | 23       | Apr 13 (Thu) | ERB-804| Course summary |  | | | **<span style="color:red;">Participation Quiz</span>** |
 | 24       | Apr 17 (Mon) | ERB-703| Project pres   |  | | |  | 
