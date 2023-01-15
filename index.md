@@ -86,7 +86,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | ------- |------- |------- | ------| -------|-------|---------|----------------|
 | 1       | Jan 9 (Mon)  | ERB-703|  Introduction | <a href="https://www.dropbox.com/s/4671w983wasofq3/lec1-Intro.pdf?dl=0">Lec-1</a> |
 | 2       | Jan 12 (Thu) | ERB-804|  ML review | <a href="https://www.dropbox.com/s/g99bd2k7bxny9e4/lec2-ML%20review.pdf?dl=0">Lec-2</a> |  | <a href="https://github.com/FaizSaeed/Data-Science-Course/blob/master/Book/Introduction%20to%20Data%20Mining_Pang%20Ning%20Tan.pdf">Data mining book</a>, <a href="https://d2l.ai/index.html#">D2L</a>, <a href="https://colab.research.google.com/drive/1LGfmF6gLhmh-NdtS5aW78GuSTBJS50Ev?usp=sharing">Colab</a>,  <a href="https://www.kaggle.com/code/lczong/aist4010-23-tut1-deep-learning-with-gpu-on-kaggle/notebook">Kaggle</a>  | A0 posted | 
-| 3       | Jan 16 (Mon) | ERB-703|  LR/NN| | 
+| 3       | Jan 16 (Mon) | ERB-703|  LR/NN| <a href="https://www.dropbox.com/s/wc1c0od2bbqr6n8/lec3-LR%20and%20NN.pdf?dl=0">Lec-3</a> | |<a href="https://d2l.ai/index.html#">D2L</a>, <a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Universal approximation theorem</a> |
 | 4       | Jan 19 (Thu) | ERB-804|  Backpropagation | | | |  | 
 |-| Jan 23 (Mon)|- |- |- |- |- | Lunar New Year Vacation |
 |-| Jan 26 (Thu)|- |- |- |- |- | Lunar New Year Vacation, **<span style="color:red;">Scribing preference, 27 Jan</span>** | 
