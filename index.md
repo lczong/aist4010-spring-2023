@@ -90,7 +90,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 4       | Jan 19 (Thu) | ERB-804|  Backpropagation | <a href="https://www.dropbox.com/s/cb1esxf9oqzgs9t/lec4-backpropagation.pdf?dl=0">Lec-4</a> | | <a href="https://d2l.ai/index.html#">D2L</a>, <a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Universal approximation theorem</a>, <a href="https://en.wikipedia.org/wiki/Chain_rule">Chain rule</a>, <a href="https://web.stanford.edu/class/ee364b/lectures/subgrad_method_notes.pdf">Subgradient</a> |  | 
 |-| Jan 23 (Mon)|- |- |- |- |- | Lunar New Year Vacation |
 |-| Jan 26 (Thu)|- |- |- |- |- | Lunar New Year Vacation, **<span style="color:red;">Scribing preference, 27 Jan</span>** | 
-| 5       | Jan 30 (Mon) | ERB-703| CNN | | | | **<span style="color:red;">A0 due</span>**, A1 posted
+| 5       | Jan 30 (Mon) | ERB-703| CNN | <a href="https://www.dropbox.com/s/zeeljayvfiyrql1/lec5-CNN.pdf?dl=0">Lec-5</a> | | <a href="https://d2l.ai/index.html#">D2L</a>, <a href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf">LeNet</a>, <a href="https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html">AlexNet</a> | **<span style="color:red;">A0 due</span>**, A1 posted
 | 6       | Feb 2 (Thu)  | ERB-804| Overfitting |  | 
 | 7       | Feb 6 (Mon)  | ERB-703| CNN++ |   |  | 
 | 8       | Feb 9 (Thu)  | ERB-804| CNN++ | |
