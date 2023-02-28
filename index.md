@@ -99,7 +99,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 11       | Feb 20 (Mon)| ERB-703| Loss function | <a href="https://www.dropbox.com/s/xmxbc4d3tsnez2i/lec11-Loss%20function%20%26%20hyper-parameter.pdf?dl=0">Lec-11</a> | | <a href="https://pjreddie.com/darknet/yolo/">YOLO</a>, <a href="https://arxiv.org/abs/1705.04058">Neural style transfer</a> |**<span style="color:red;">Project proposal</span>**
 | 12       | Feb 23 (Thu)| ERB-804| Text processing | <a href="https://www.dropbox.com/s/u037i5qnmfdoulk/lec12-Text%20processing.pdf?dl=0">Lec-12</a> |  | <a href="https://github.com/RaRe-Technologies/gensim">Gensim</a>, <a href="https://github.com/niderhoff/nlp-datasets">NLP datasets</a> | **<span style="color:red;">A1-Kaggle due</span>**, A2 posted
 | 13       | Feb 27 (Mon)| ERB-703| RNN | <a href="https://www.dropbox.com/s/r7lpgdhutpew0yy/lec13-RNN.pdf?dl=0">Lec-13</a>  |  |  <a href="https://arxiv.org/abs/2006.14799">Text generation</a>
-| 14       | Mar 2 (Thu) | ERB-804| RNN++ |  |
+| 14       | Mar 2 (Thu) | ERB-804| RNN++ | <a href="https://www.dropbox.com/s/s0ydbww7d5jqo6d/lec14-RNN%2B%2B.pdf?dl=0">Lec-14</a>  | | <a href="https://arxiv.org/abs/1412.3555">GRUs</a>
 |-| Mar 6 (Mon) |- |- |- |- |- | Reading Week | 
 |-| Mar 9 (Thu) |- |- |- |- |- | Reading Week |
 | 15       | Mar 13 (Mon)| ERB-703| RNN++| | | | **<span style="color:red;">A2-paper due</span>**, A3 posted |
