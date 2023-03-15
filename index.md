@@ -103,7 +103,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 |-| Mar 6 (Mon) |- |- |- |- |- | Reading Week | 
 |-| Mar 9 (Thu) |- |- |- |- |- | Reading Week |
 | 15       | Mar 13 (Mon)| ERB-703| RNN++| <a href="https://www.dropbox.com/s/rd7lfquaq693mey/lec15-RNN%2B%2B%20%26%20Attention.pdf?dl=0">Lec-15</a> | | <a href="https://arxiv.org/abs/1706.03762">Attention</a> | **<span style="color:red;">A2-paper due</span>**, A3 posted |
-| 16       | Mar 16 (Thu)| ERB-804| Attention | | | | **<span style="color:red;">Project M-report</span>**  |
+| 16       | Mar 16 (Thu)| ERB-804| Attention | <a href="https://www.dropbox.com/s/hyv70ey6wyq3ozz/lec16-Attention.pdf?dl=0">Lec-16</a> | | <a href="https://arxiv.org/abs/1706.03762">Attention</a>, <a href="https://openai.com/research/gpt-4">GPT-4</a> | **<span style="color:red;">Project M-report</span>**  |
 | 17       | Mar 20 (Mon)| ERB-703| BERT | |  | | **<span style="color:red;">A2-Kaggle due</span>**
 | 18       | Mar 23 (Thu)| ERB-804| NLP | |
 | 19       | Mar 27 (Mon)| ERB-703| Graph  | | | |  | 
