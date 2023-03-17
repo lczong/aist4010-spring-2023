@@ -107,9 +107,9 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 17       | Mar 20 (Mon)| ERB-703| BERT | |  | | **<span style="color:red;">A2-Kaggle due</span>**
 | 18       | Mar 23 (Thu)| ERB-804| NLP | |
 | 19       | Mar 27 (Mon)| ERB-703| Graph  | | | |  | 
-| 20       | Mar 30 (Thu)| ERB-804| GNN |  | | | **<span style="color:red;">A3-paper due</span>**
-| 21       | Apr 3 (Mon) | ERB-703|GAN | |  |  | **<span style="color:red;">A3-Kaggle due</span>**
-| 22       | Apr 6 (Thu) | ERB-804|Generative |  |  |  | 
+| 20       | Mar 30 (Thu)| ERB-804| GNN |  | | | 
+| 21       | Apr 3 (Mon) | ERB-703|GAN | |  |  | **<span style="color:red;">A3-paper due</span>**
+| 22       | Apr 6 (Thu) | ERB-804|Generative |  |  |  | **<span style="color:red;">A3-Kaggle due</span>**
 |-| Apr 10 (Mon) |- |- |- |- |- | Easter Monday |
 | 23       | Apr 13 (Thu) | ERB-804| Course summary |  | | | **<span style="color:red;">Participation Quiz</span>** |
 | 24       | Apr 17 (Mon) | ERB-703| Project pres   |  | | |  | 
