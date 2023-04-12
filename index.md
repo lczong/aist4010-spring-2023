@@ -111,7 +111,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 21       | Apr 3 (Mon) | ERB-703|GAN | <a href="https://www.dropbox.com/s/43bcl3nxhc1lzi0/lec21-GAN.pdf?dl=0">Lec-21</a> | <a href="https://drive.google.com/drive/folders/1dZNJuUcFfNJ5jU_PonRPptSgs_dweRUE?usp=share_link">Notes</a> |<a href="https://arxiv.org/abs/2011.02260">RL</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">GAN</a>, <a href="https://arxiv.org/pdf/1611.02163.pdf">Unrolled GAN</a>, <a href="https://arxiv.org/abs/1606.03498v1">Train GAN</a>  | **<span style="color:red;">A3-paper due</span>**
 | 22       | Apr 6 (Thu) | ERB-804|Generative | <a href="https://www.dropbox.com/s/81ln8ed8m5t4y9y/lec22-Generative.pdf?dl=0">Lec-22</a> | <a href="https://drive.google.com/drive/folders/1OKIJMz3tpg9hUacuiE_bNvqAn9KyM225?usp=share_link">Notes</a> | <a href="https://phillipi.github.io/pix2pix/">pix2pix</a>, <a href="https://junyanz.github.io/CycleGAN/">Cycle-GAN</a> | **<span style="color:red;">A3-Kaggle due</span>**
 |-| Apr 10 (Mon) |- |- |- |- |- | Easter Monday |
-| 23       | Apr 13 (Thu) | ERB-804| Course summary |  | | | **<span style="color:red;">Participation Quiz</span>** |
+| 23       | Apr 13 (Thu) | ERB-804| Summary & Presentation | Course summary | <a href="https://www.dropbox.com/s/tn4j1g1pwvjano0/lec23-Review.pdf?dl=0">Lec-23</a> | | | **<span style="color:red;">Participation Quiz</span>** |
 | 24       | Apr 17 (Mon) | ERB-703| Project pres   |  | | |  | 
 | 25       | Apr 20 (Thu) | ERB-804| Project pres   |  | | | **<span style="color:red;">Project report</span>** | 
 
